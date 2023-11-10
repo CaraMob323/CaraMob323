@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=CaraMob323&color=red)
 
 ## **Languages**
-- 🇺🇸 English
 - 🇪🇸 Spanish
+- 🇺🇸 English
 
 ## **Programming Languages**
 
